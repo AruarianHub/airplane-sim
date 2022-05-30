@@ -1,5 +1,5 @@
 getgenv().autoFarm = true
-getgenv().autoPlaneName = "Cessna Skyhawk"
+getgenv().autoPlaneName = game.Workspace.LuxeCommands.AirplaneSimulator.AutoFarmPlane.Value
 
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
