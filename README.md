@@ -1,5 +1,5 @@
 getgenv().autoFarm = true
-getgenv().autoPlaneName = _G.ASAFP
+getgenv().autoPlaneName = "Cessna Skyhawk"
 
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
